@@ -1,2 +1,3 @@
-# pi_hole
-Repository used to set up local pi_hole service
+# Objectives for this project
+* Set up Pi-hole service for a local network using Docker
+* Practice CI/CD
